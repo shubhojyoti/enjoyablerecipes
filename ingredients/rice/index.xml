@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rice on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/rice/</link>
+    <description>Recent content in Rice on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Oct 2012 03:27:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/rice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malpua</title>
+      <link>https://www.enjoyable.recipes/recipe/malpua-sweet-pastry-dipped-sugar-syrup/</link>
+      <pubDate>Wed, 10 Oct 2012 03:27:03 +0000</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/malpua-sweet-pastry-dipped-sugar-syrup/</guid>
+      <description>Things have been hectic lately. After many days of constant work, we found free time this weekend. Sumi and I were reminiscing our childhood and I remembered the delicious Malpuas that mom used to make for us. She made it specifically for me as I loved them. Even though we have been to Kolkata 4 times the past 3 years, I last had Malpua 4 years back. I consciously asked mom not to prepare them for the past few years due to our low-carb diet.</description>
+    </item>
+    
+    <item>
+      <title>Khejuri Gurer Payesh</title>
+      <link>https://www.enjoyable.recipes/recipe/khejuri-gurer-payesh-rice-pudding-jaggery-date-plum/</link>
+      <pubDate>Thu, 05 Jul 2012 19:52:45 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/khejuri-gurer-payesh-rice-pudding-jaggery-date-plum/</guid>
+      <description>Bengalis are known for their sweet teeth. No matter what the occasion is, sweets are a compulsory portion of the menu. I remember indulging in all the lovely “Makar Sankranti” delicacies mom made like Pathisapta and Pithes. I also love Rasagullas, Sandesh and Langcha. The options are unlimited. However Payesh is considered one of the most auspicious sweet. During birthdays, anniversaries or any festivals, having a spoonful of Payesh is considered a very good start for the day.</description>
+    </item>
+    
+  </channel>
+</rss>

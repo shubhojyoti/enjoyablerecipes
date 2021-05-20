@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kasoori Methi on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/kasoori-methi/</link>
+    <description>Recent content in Kasoori Methi on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Nov 2012 03:20:04 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/kasoori-methi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kadai Paneer</title>
+      <link>https://www.enjoyable.recipes/recipe/kadai-paneer-cottage-cheese-spicy-tomato-gravy/</link>
+      <pubDate>Wed, 14 Nov 2012 03:20:04 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/kadai-paneer-cottage-cheese-spicy-tomato-gravy/</guid>
+      <description>If you are a follower of this blog, you will know that paneer is one of my favorite ingredients. I love paneer as much as I love chicken. I always try to experiment with different paneer dishes. However I have rarely tried to create a well-known paneer dish like Kadai Paneer. Since today is our weekly vegetarian day, I wanted to cook a paneer dish. I looked through some cookbooks and decided on creating a Kadai Paneer.</description>
+    </item>
+    
+    <item>
+      <title>Matar Paneer</title>
+      <link>https://www.enjoyable.recipes/recipe/matar-paneer/</link>
+      <pubDate>Wed, 25 Apr 2012 10:37:10 +0500</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/matar-paneer/</guid>
+      <description>Paneer remains my all time favorite. When I was a kid (I am not one now despite what my mom wants me to believe), mom always made a paneer dish once a day. Lunch always used to contain fish, which is obvious as we were a typical Bengali family, but on Saturdays it was no fish. Instead we had a paneer dish. As far as I was concerned for me it made no difference.</description>
+    </item>
+    
+  </channel>
+</rss>

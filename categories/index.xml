@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/categories/</link>
+    <description>Recent content in Categories on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2017 23:28:51 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sides</title>
+      <link>https://www.enjoyable.recipes/categories/sides/</link>
+      <pubDate>Mon, 06 Mar 2017 23:28:51 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/sides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet</title>
+      <link>https://www.enjoyable.recipes/categories/sweet/</link>
+      <pubDate>Wed, 14 Jan 2015 19:43:24 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/sweet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paneer</title>
+      <link>https://www.enjoyable.recipes/categories/paneer/</link>
+      <pubDate>Wed, 14 Nov 2012 03:20:04 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/paneer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>https://www.enjoyable.recipes/categories/fish/</link>
+      <pubDate>Sat, 10 Nov 2012 18:23:08 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chicken</title>
+      <link>https://www.enjoyable.recipes/categories/chicken/</link>
+      <pubDate>Thu, 01 Nov 2012 18:39:42 +0000</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Savory</title>
+      <link>https://www.enjoyable.recipes/categories/savory/</link>
+      <pubDate>Wed, 24 Oct 2012 19:49:46 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/savory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutton</title>
+      <link>https://www.enjoyable.recipes/categories/mutton/</link>
+      <pubDate>Tue, 24 Jul 2012 18:14:15 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/mutton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vegetables</title>
+      <link>https://www.enjoyable.recipes/categories/vegetables/</link>
+      <pubDate>Thu, 03 May 2012 10:05:12 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/vegetables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prawn</title>
+      <link>https://www.enjoyable.recipes/categories/prawn/</link>
+      <pubDate>Mon, 30 Jan 2012 18:00:00 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/prawn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egg</title>
+      <link>https://www.enjoyable.recipes/categories/egg/</link>
+      <pubDate>Sat, 26 Mar 2011 14:31:55 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/categories/egg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

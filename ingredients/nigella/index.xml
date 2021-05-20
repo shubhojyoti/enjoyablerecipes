@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nigella on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/nigella/</link>
+    <description>Recent content in Nigella on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Nov 2012 18:23:08 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/nigella/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paiya Fish Curry</title>
+      <link>https://www.enjoyable.recipes/recipe/paiya-fish-curry/</link>
+      <pubDate>Sat, 10 Nov 2012 18:23:08 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/paiya-fish-curry/</guid>
+      <description>Diwali is around the corner. I miss the sweets and special fish dishes mom cooked for us around the festival holidays. Sumi and I don’t do anything special. But we try to have a different type of fish during these days which we would not have regularly. This is because fish is considered lucky and auspicious. We bought Paiya fish yesterday. I had it once before at a friend’s place and it tasted great.</description>
+    </item>
+    
+    <item>
+      <title>Lau Chingri</title>
+      <link>https://www.enjoyable.recipes/recipe/lau-chingri-bottlegourd-prawns/</link>
+      <pubDate>Sun, 12 Jun 2011 19:13:38 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/lau-chingri-bottlegourd-prawns/</guid>
+      <description>Prawns (Chingri in Bengali) are an all time favorite of a typical Bengali. I guess I am the only exception. For some strange reason, I never took any fancy with them since childhood. I say strange because I have started to like them a little now, even though there are only few types of preparation that I like now. I had a friend in my class who once commented that no self-respecting Bengali can not like prawns.</description>
+    </item>
+    
+  </channel>
+</rss>

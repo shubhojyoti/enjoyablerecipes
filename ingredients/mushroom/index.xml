@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mushroom on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/mushroom/</link>
+    <description>Recent content in Mushroom on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2012 18:39:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/mushroom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicken Curry with Veggies</title>
+      <link>https://www.enjoyable.recipes/recipe/chicken-curry-with-veggies-asparagus-and-mushrooms/</link>
+      <pubDate>Thu, 01 Nov 2012 18:39:42 +0000</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/chicken-curry-with-veggies-asparagus-and-mushrooms/</guid>
+      <description>In our Indian cuisine, it’s very difficult to have any regular non-vegetarian curry without rice or bread. But ever since our low-carb diet begun, we have reduced our rice and bread intake by 90%. As a result, we always need to add some extra veggies (or fruits) or some other inventive cooking methods to have our chicken or fish curries. There was this time where we had slices of cheese (Mozzarella and Cheddar) along with chicken or the time when we grated Parmesan over the chicken.</description>
+    </item>
+    
+  </channel>
+</rss>

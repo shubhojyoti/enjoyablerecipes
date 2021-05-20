@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generals on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/general/</link>
+    <description>Recent content in Generals on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Feb 2017 01:34:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Search</title>
+      <link>https://www.enjoyable.recipes/search/</link>
+      <pubDate>Sat, 18 Feb 2017 01:34:20 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>allposts</title>
+      <link>https://www.enjoyable.recipes/services/allrecipes/</link>
+      <pubDate>Sat, 18 Feb 2017 01:34:20 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/services/allrecipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>searchindex</title>
+      <link>https://www.enjoyable.recipes/services/searchindex/</link>
+      <pubDate>Sat, 18 Feb 2017 01:34:20 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/services/searchindex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.enjoyable.recipes/blog/</link>
+      <pubDate>Wed, 15 Feb 2017 01:16:56 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe List</title>
+      <link>https://www.enjoyable.recipes/recipes/</link>
+      <pubDate>Wed, 15 Feb 2017 01:16:56 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Dreaded About Page</title>
+      <link>https://www.enjoyable.recipes/about/</link>
+      <pubDate>Wed, 15 Feb 2017 01:16:56 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/about/</guid>
+      <description>Hey everyone, thanks for checking our blog. We are Shubhojyoti and Sumita (Boomboom and Sumi in short). We live in Bangalore and we are sporadic cooks. By sporadic, we mean that we do not cook everyday. Since both of us are employed and have a 8-5 job, sometimes we do feel lazy to cook. We also try to follow a low carb diet (Sumi has been more successful). We are Bengalis so no matter what we cook, a little amount of Bengali influence does enter all our recipes.</description>
+    </item>
+    
+  </channel>
+</rss>

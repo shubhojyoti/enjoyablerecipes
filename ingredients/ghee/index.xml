@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghee on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/ghee/</link>
+    <description>Recent content in Ghee on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jul 2012 19:52:45 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/ghee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Khejuri Gurer Payesh</title>
+      <link>https://www.enjoyable.recipes/recipe/khejuri-gurer-payesh-rice-pudding-jaggery-date-plum/</link>
+      <pubDate>Thu, 05 Jul 2012 19:52:45 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/khejuri-gurer-payesh-rice-pudding-jaggery-date-plum/</guid>
+      <description>Bengalis are known for their sweet teeth. No matter what the occasion is, sweets are a compulsory portion of the menu. I remember indulging in all the lovely “Makar Sankranti” delicacies mom made like Pathisapta and Pithes. I also love Rasagullas, Sandesh and Langcha. The options are unlimited. However Payesh is considered one of the most auspicious sweet. During birthdays, anniversaries or any festivals, having a spoonful of Payesh is considered a very good start for the day.</description>
+    </item>
+    
+  </channel>
+</rss>

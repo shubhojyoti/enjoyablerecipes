@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sesame seeds on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/sesame-seeds/</link>
+    <description>Recent content in Sesame seeds on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2012 15:47:48 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/sesame-seeds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chicken Pakoda</title>
+      <link>https://www.enjoyable.recipes/recipe/chicken-pakoda/</link>
+      <pubDate>Wed, 31 Oct 2012 15:47:48 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/chicken-pakoda/</guid>
+      <description>Whenever it rains, it takes me back to my childhood. Both Boomboom and I grew up in the chilly Northern and Eastern India. Inherently, rains accompanied a severe drop in temperature. The perfect rainy evening consisted of crispy potato and chicken pakodas with coffee. Mom used to cook these frequently but they became tasted extraordinary on a rainy day. Our whole family would sit together and savor theses pakodas.</description>
+    </item>
+    
+  </channel>
+</rss>

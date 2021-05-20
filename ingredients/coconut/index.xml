@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coconut on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/coconut/</link>
+    <description>Recent content in Coconut on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2015 19:43:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/coconut/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patishapta Pitha</title>
+      <link>https://www.enjoyable.recipes/recipe/patishapta-pitha-pancakes-with-coconut-filling/</link>
+      <pubDate>Wed, 14 Jan 2015 19:43:24 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/patishapta-pitha-pancakes-with-coconut-filling/</guid>
+      <description>Today is Makar Sankranti, the day we celebrate the arrival of spring. It celebrates the oncoming harvest. Bengalis celebrate this day by preparing some special sweets known as “Pitha”. There are many types and I love all of them. My mom is an expert on these. I remember days of preparation in our home for the D-day. Most of the pithas had coconut as its main ingredient. My dad would buy lots of fresh coconuts and then he would grate them one by one.</description>
+    </item>
+    
+    <item>
+      <title>Malpua</title>
+      <link>https://www.enjoyable.recipes/recipe/malpua-sweet-pastry-dipped-sugar-syrup/</link>
+      <pubDate>Wed, 10 Oct 2012 03:27:03 +0000</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/malpua-sweet-pastry-dipped-sugar-syrup/</guid>
+      <description>Things have been hectic lately. After many days of constant work, we found free time this weekend. Sumi and I were reminiscing our childhood and I remembered the delicious Malpuas that mom used to make for us. She made it specifically for me as I loved them. Even though we have been to Kolkata 4 times the past 3 years, I last had Malpua 4 years back. I consciously asked mom not to prepare them for the past few years due to our low-carb diet.</description>
+    </item>
+    
+  </channel>
+</rss>

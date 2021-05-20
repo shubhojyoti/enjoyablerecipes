@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leek on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/leek/</link>
+    <description>Recent content in Leek on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2011 13:46:54 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/leek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yummy Fish Fillet</title>
+      <link>https://www.enjoyable.recipes/recipe/yummy-fish-fillet/</link>
+      <pubDate>Tue, 27 Dec 2011 13:46:54 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/yummy-fish-fillet/</guid>
+      <description>This is going to be the final post of the year. We have not been regular with our posting this year too but things have picked up since November and I am happy for that reason. We are visiting our parents right now and we’ve been here since 24th and we will go back to Bangalore on 1st. Sumi is still following her diet (minus the first day when she just couldn’t resist Mom’s cooking).</description>
+    </item>
+    
+  </channel>
+</rss>

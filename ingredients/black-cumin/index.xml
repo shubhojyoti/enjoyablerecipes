@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black Cumin on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/black-cumin/</link>
+    <description>Recent content in Black Cumin on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 May 2012 10:05:12 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/black-cumin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nirameesh Aloo Poshto</title>
+      <link>https://www.enjoyable.recipes/recipe/nirameesh-aloo-poshto-potatoes-poppy-seeds/</link>
+      <pubDate>Thu, 03 May 2012 10:05:12 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/nirameesh-aloo-poshto-potatoes-poppy-seeds/</guid>
+      <description>It’s starting to rain at Bangalore these days. I love the rains. I miss the fact that it rains here usually in the afternoon. When I was growing up at Ranchi, there were no such timing. In fact there were quite a few days when it rained 5-6 days continuously. I have special memories of the lunch mom used to serve during these days. After coming back from school, I had to have bath (else no lunch).</description>
+    </item>
+    
+  </channel>
+</rss>

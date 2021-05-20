@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Specialrecipes on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/specialrecipes/</link>
+    <description>Recent content in Specialrecipes on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2015 19:43:24 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/specialrecipes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mom&#39;s Kitchen</title>
+      <link>https://www.enjoyable.recipes/specialrecipes/moms-kitchen/</link>
+      <pubDate>Wed, 14 Jan 2015 19:43:24 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/specialrecipes/moms-kitchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Carb</title>
+      <link>https://www.enjoyable.recipes/specialrecipes/low-carb/</link>
+      <pubDate>Wed, 14 Nov 2012 03:20:04 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/specialrecipes/low-carb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

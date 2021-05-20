@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/apple/</link>
+    <description>Recent content in Apple on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2012 17:05:28 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pancharangi Chaatni</title>
+      <link>https://www.enjoyable.recipes/recipe/pancharangi-chatni-sweet-chutney-fruits-veggies/</link>
+      <pubDate>Sat, 21 Apr 2012 17:05:28 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/pancharangi-chatni-sweet-chutney-fruits-veggies/</guid>
+      <description>It’s been ages since we posted a recipe. Things haven’t been very smooth at the home front. We have been extremely busy with our work. My parents are visiting us and there were lots of trips to the hospital to check whether everything is alright with them. Things are looking better now. The past few months haven’t been exciting cooking wise. We ate pretty regular stuff as mom wanted to eat regular food.</description>
+    </item>
+    
+    <item>
+      <title>Apples and Ice Cream Yummy</title>
+      <link>https://www.enjoyable.recipes/recipe/apples-and-ice-cream-yummy/</link>
+      <pubDate>Sat, 10 Dec 2011 16:07:09 +0000</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/apples-and-ice-cream-yummy/</guid>
+      <description>It’s been ages since we had ice cream. You obviously know why? Our Diet!! Sometimes we feel frustrated with the diet. Even a single day matters. Sumi had reached her target weight quite a few months back. Believe it or not but she lost a whopping 37kg since she started on the diet. But she is struggling now to maintain it. I, on the other hand, have lost around 12kg since the start which is horrible.</description>
+    </item>
+    
+  </channel>
+</rss>

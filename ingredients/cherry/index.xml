@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cherry on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/cherry/</link>
+    <description>Recent content in Cherry on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2012 17:05:28 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/cherry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pancharangi Chaatni</title>
+      <link>https://www.enjoyable.recipes/recipe/pancharangi-chatni-sweet-chutney-fruits-veggies/</link>
+      <pubDate>Sat, 21 Apr 2012 17:05:28 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/pancharangi-chatni-sweet-chutney-fruits-veggies/</guid>
+      <description>It’s been ages since we posted a recipe. Things haven’t been very smooth at the home front. We have been extremely busy with our work. My parents are visiting us and there were lots of trips to the hospital to check whether everything is alright with them. Things are looking better now. The past few months haven’t been exciting cooking wise. We ate pretty regular stuff as mom wanted to eat regular food.</description>
+    </item>
+    
+  </channel>
+</rss>

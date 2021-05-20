@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bottlegourd on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/ingredients/bottlegourd/</link>
+    <description>Recent content in Bottlegourd on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jun 2011 19:13:38 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/ingredients/bottlegourd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lau Chingri</title>
+      <link>https://www.enjoyable.recipes/recipe/lau-chingri-bottlegourd-prawns/</link>
+      <pubDate>Sun, 12 Jun 2011 19:13:38 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/lau-chingri-bottlegourd-prawns/</guid>
+      <description>Prawns (Chingri in Bengali) are an all time favorite of a typical Bengali. I guess I am the only exception. For some strange reason, I never took any fancy with them since childhood. I say strange because I have started to like them a little now, even though there are only few types of preparation that I like now. I had a friend in my class who once commented that no self-respecting Bengali can not like prawns.</description>
+    </item>
+    
+  </channel>
+</rss>

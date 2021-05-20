@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipetypes on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/recipetypes/</link>
+    <description>Recent content in Recipetypes on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Mar 2017 23:28:51 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/recipetypes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vegetarian</title>
+      <link>https://www.enjoyable.recipes/recipetypes/vegetarian/</link>
+      <pubDate>Mon, 06 Mar 2017 23:28:51 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipetypes/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Vegetarian</title>
+      <link>https://www.enjoyable.recipes/recipetypes/non-vegetarian/</link>
+      <pubDate>Sat, 10 Nov 2012 18:23:08 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipetypes/non-vegetarian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

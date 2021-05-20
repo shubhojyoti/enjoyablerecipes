@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Egg on Enjoyable Recipes</title>
+    <link>https://www.enjoyable.recipes/categories/egg/</link>
+    <description>Recent content in Egg on Enjoyable Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2011 14:31:55 +0530</lastBuildDate>
+    
+	<atom:link href="https://www.enjoyable.recipes/categories/egg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home Styled Mashed Eggs</title>
+      <link>https://www.enjoyable.recipes/recipe/home-styled-mashed-eggs/</link>
+      <pubDate>Sat, 26 Mar 2011 14:31:55 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/home-styled-mashed-eggs/</guid>
+      <description>Ever since our low carb diet has kicked in, our egg consumption has exponentially grown. It helps that both Sumi and I love them. She surely can write 101 methods to prepare eggs. I think out of 5 working days during the week, we take eggs in lunch at work 3 days. After returning home in evening it even increases more. Eggs have very less carb content. But the cholesterol content is supposed to be very high.</description>
+    </item>
+    
+    <item>
+      <title>Egg Roll</title>
+      <link>https://www.enjoyable.recipes/recipe/egg-roll/</link>
+      <pubDate>Thu, 02 Dec 2010 10:55:51 +0530</pubDate>
+      
+      <guid>https://www.enjoyable.recipes/recipe/egg-roll/</guid>
+      <description>We love eggs. I guess post marriage the amount of eggs we have eaten is greater than my entire egg consumption before marriage. One of the primary reason being the simple manner in which we can cook it. Another reason being the various preparation we can have with them. Who would have thought a simple round thing can be so tasty yum Okay I am going way out of topic.</description>
+    </item>
+    
+  </channel>
+</rss>
